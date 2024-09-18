@@ -1,0 +1,307 @@
+[
+  {
+    "price": 5,
+    "roles": [
+      {
+        "name": "后藤一里",
+        "price": 5,
+        "image": "./static/roles/bocchi.jpg",
+        "specialAbility": "lyric",
+        "bandSkill": ["guitar"],
+        "descriptionTitle": "吉他手、作词",
+        "description": "吉他英雄"
+      },
+      {
+        "name": "Oblivionis",
+        "price": 5,
+        "image": "./static/roles/oblivionis.jpg",
+        "specialAbility": "compose",
+        "bandSkill": ["piano"],
+        "descriptionTitle": "键盘、作曲",
+        "description": "我无惧遗忘\n已黑化\n如果有一天我变有钱……",
+		"uniqueTag": "sakiko"
+      },
+      {
+        "name": "平泽唯",
+        "price": 5,
+        "image": "./static/roles/yui.jpg",
+        "specialAbility": "lyric",
+        "bandSkill": ["guitar", "microphone"],
+        "descriptionTitle": "吉他手、主唱、作词",
+        "description": "难道她真的是天才"
+      }
+    ]
+  },
+  {
+    "price": 4,
+    "roles": [
+      {
+        "name": "丰川祥子",
+        "price": 4,
+        "image": "./static/roles/sakiko.jpg",
+        "specialAbility": "compose",
+        "bandSkill": ["piano"],
+        "descriptionTitle": "键盘、作曲",
+        "description": "白月光形态",
+		"uniqueTag": "sakiko"
+      },
+      {
+        "name": "高松灯",
+        "price": 4,
+        "image": "./static/roles/tomori.jpg",
+        "specialAbility": "lyric",
+        "bandSkill": ["microphone"],
+        "descriptionTitle": "主唱、作词",
+        "description": "普通和理所当然...",
+		"uniqueTag":"tomori"
+      },
+      {
+        "name": "河原木桃香",
+        "price": 4,
+        "image": "./static/roles/momoka.jpg",
+        "specialAbility": "compose",
+        "bandSkill": ["guitar","microphone"],
+        "descriptionTitle": "吉他手、主唱、作曲",
+        "description": "明天就打算回老家"
+      },
+	  {
+	    "name": "山田凉",
+	    "price": 4,
+	    "image": "./static/roles/ryo.jpg",
+	    "specialAbility": "compose",
+	    "bandSkill": ["bass"],
+	    "descriptionTitle": "贝斯手、作曲",
+	    "description": "贝斯大高手"
+	  },
+	  {
+	    "name": "秋山澪",
+	    "price": 4,
+	    "image": "./static/roles/mio.jpg",
+	    "specialAbility": "lyric",
+	    "bandSkill": ["bass","microphone"],
+	    "descriptionTitle": "贝斯手、作词、主唱",
+	    "description": "会写出很肉麻的歌词"
+	  },
+	  {
+	    "name": "八幡海玲",
+	    "price": 4,
+	    "image": "./static/roles/umirin.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["bass"],
+	    "descriptionTitle": "贝斯手",
+	    "description": "传奇雇佣兵\n兼任30个乐队"
+	  },
+	  {
+	    "name": "Doloris",
+	    "price": 4,
+	    "image": "./static/roles/doloris.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["microphone","guitar"],
+	    "descriptionTitle": "主唱、吉他手",
+	    "description": "Doloris\n我无惧悲伤",
+		"uniqueTag":"uika"
+	  }
+    ]
+  },
+  {
+    "price": 3,
+    "roles": [
+      {
+        "name": "椎名立希",
+        "price": 3,
+        "image": "./static/roles/taki.jpg",
+        "specialAbility": "compose",
+        "bandSkill": ["drum"],
+        "descriptionTitle": "鼓手、作曲",
+        "description": "只要有灯的话..."
+      },
+      {
+        "name": "要乐奈",
+        "price": 3,
+        "image": "./static/roles/raana.jpg",
+        "specialAbility": "",
+        "bandSkill": ["guitar"],
+        "descriptionTitle": "吉他手",
+        "description": "流浪的野猫"
+      },
+	  {
+	    "name": "井芹仁菜",
+	    "price": 3,
+	    "image": "./static/roles/nina.jpg",
+	    "specialAbility": "lyric",
+	    "bandSkill": ["microphone"],
+	    "descriptionTitle": "主唱、作词、吉他？",
+	    "description": "我不想输"
+	  },
+	  {
+	    "name": "海老冢智",
+	    "price": 3,
+	    "image": "./static/roles/tomo.jpg",
+	    "specialAbility": "compose",
+	    "bandSkill": ["piano"],
+	    "descriptionTitle": "键盘，作曲",
+	    "description": "喜欢养爬宠\n红生姜的双壁"
+	  },
+	  {
+	    "name": "琴吹䌷",
+	    "price": 3,
+	    "image": "./static/roles/tsumugi.jpg",
+	    "specialAbility": "compose",
+	    "bandSkill": ["piano"],
+	    "descriptionTitle": "键盘、作曲",
+	    "description": "粗眉毛大小姐"
+	  },
+	  {
+	    "name": "若叶睦",
+	    "price": 3,
+	    "image": "./static/roles/mutsumi.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["guitar"],
+	    "descriptionTitle": "吉他手",
+	    "description": "从来没有觉得..."
+	  },
+	  {
+	    "name": "三角初华",
+	    "price": 3,
+	    "image": "./static/roles/uika.jpg",
+	    "specialAbility": "compose",
+	    "bandSkill": ["guitar"],
+	    "descriptionTitle": "吉他手、作曲",
+	    "description": "偶像团体sumimi\n吉他和作曲担当",
+		"uniqueTag":"uika"
+	  },
+	  {
+	    "name": "长崎素世（Crythic）",
+	    "price": 3,
+	    "image": "./static/roles/soyo-cry.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["bass"],
+	    "descriptionTitle": "贝斯手",
+	    "description": "高岭之花大小姐\n就要弹奏春日影",
+		"uniqueTag":"soyo"
+	  },
+	  {
+	    "name": "中野梓（三年）",
+	    "price": 3,
+	    "image": "./static/roles/azusa-leader.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["guitar","microphone"],
+	    "descriptionTitle": "吉他手、主唱",
+	    "description": "轻音部的部长\n若叶Girls的吉他兼主唱担当",
+		"uniqueTag":"azusa"
+	  }
+    ]
+  },
+  {
+    "price": 2,
+    "roles": [
+      {
+        "name": "喜多郁代",
+        "price": 2,
+        "image": "./static/roles/kita.jpg",
+        "specialAbility": "",
+        "bandSkill": ["microphone", "guitar"],
+        "descriptionTitle": "主唱、吉他手",
+        "description": "除了唱歌好听，还会弹吉他\n只要不落跑..."
+      },
+      {
+        "name": "长崎素世",
+        "price": 2,
+        "image": "./static/roles/soyo.jpg",
+        "specialAbility": "",
+        "bandSkill": ["bass"],
+        "descriptionTitle": "贝斯手",
+        "description": "擅长发短信",
+		"uniqueTag":"soyo"
+      },
+	  {
+	    "name": "伊地知虹夏",
+	    "price": 2,
+	    "image": "./static/roles/nijika.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["drum"],
+	    "descriptionTitle": "鼓手",
+	    "description": "你是我遥不可及的梦..."
+	  },
+	  {
+	    "name": "Hina",
+	    "price": 2,
+	    "image": "./static/roles/hina.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["microphone","guitar"],
+	    "descriptionTitle": "主唱、吉他手",
+	    "description": "偶像乐队钻石星辰\n主唱兼节奏吉他担当\n可以和解吗?"
+	  },
+	  {
+	    "name": "祐天寺若麦",
+	    "price": 2,
+	    "image": "./static/roles/nyamu.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["drum"],
+	    "descriptionTitle": "鼓手",
+	    "description": "Amoris\n我无惧爱"
+	  },
+	  {
+	    "name": "高松灯（Crythic）",
+	    "price": 2,
+	    "image": "./static/roles/tomori-cry.jpg",
+	    "specialAbility": "lyric",
+	    "bandSkill": ["microphone"],
+	    "descriptionTitle": "主唱、作词",
+	    "description": "没有诗超绊的tomori",
+		"uniqueTag":"tomori"
+	  },
+	  {
+	    "name": "中野梓",
+	    "price": 1,
+	    "image": "./static/roles/azusa.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["guitar"],
+	    "descriptionTitle": "吉他手",
+	    "description": "猫耳吉他手",
+		"uniqueTag":"azusa"
+	  }
+    ]
+  },
+  {
+    "price": 1,
+    "roles": [
+      {
+        "name": "千早爱音",
+        "price": 1,
+        "image": "./static/roles/anon.jpg",
+        "specialAbility": "",
+        "bandSkill": ["guitar","microphone"],
+        "descriptionTitle": "吉他手、主唱?",
+        "description": "未来可期"
+      },
+	  {
+	    "name": "安和昴",
+	    "price": 1,
+	    "image": "./static/roles/subaru.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["drum"],
+	    "descriptionTitle": "鼓手、演员?",
+	    "description": "有当演员的奶奶\n擅长格斗"
+	  },
+	  {
+	    "name": "RUPA",
+	    "price": 1,
+	    "image": "./static/roles/RUPA.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["bass"],
+	    "descriptionTitle": "贝斯手",
+	    "description": "红生姜的双壁"
+	  },
+	  {
+	    "name": "田井中律",
+	    "price": 1,
+	    "image": "./static/roles/ritsu.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["drum"],
+	    "descriptionTitle": "鼓手",
+	    "description": "律队员"
+	  }
+    ]
+  }
+]
