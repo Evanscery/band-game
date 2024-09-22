@@ -181,6 +181,15 @@
 		"uniqueTag":"soyo"
 	  },
 	  {
+	    "name": "广井菊里",
+	    "price": 3,
+	    "image": "./static/roles/kikuri.jpg",
+	    "specialAbility": "",
+	    "bandSkill": ["bass","microphone"],
+	    "descriptionTitle": "贝斯手、主唱",
+	    "description": "实力派贝斯手兼主唱\n主要事迹：在Live上喝酒然后喷出来、竖中指、唱到一半忘词儿"
+	  },
+	  {
 	    "name": "中野梓（三年）",
 	    "price": 3,
 	    "image": "./static/roles/azusa-leader.jpg",
@@ -253,7 +262,7 @@
 	  },
 	  {
 	    "name": "中野梓",
-	    "price": 1,
+	    "price": 2,
 	    "image": "./static/roles/azusa.jpg",
 	    "specialAbility": "",
 	    "bandSkill": ["guitar"],
